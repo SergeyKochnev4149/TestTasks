@@ -1,4 +1,4 @@
-# testTask_company1
+# TestTask_company1
 
 Task 1
 The program finds the number of combinations of correct pairs of brackets based on the number of entered pairs
